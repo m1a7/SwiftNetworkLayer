@@ -1,0 +1,6 @@
+framework module RXBagel {
+  umbrella header "RXBagel.h"
+
+  export *
+  module * { export * }
+}
